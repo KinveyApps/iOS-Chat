@@ -1,0 +1,75 @@
+PODS:
+  - IQKeyboardManagerSwift (6.0.0)
+  - KeychainAccess (3.1.1)
+  - Kinvey (3.13.0):
+    - KeychainAccess (~> 3.0)
+    - ObjectMapper (~> 3.0)
+    - PromiseKit (~> 4.0)
+    - PubNub (~> 4.0)
+    - Realm (~> 3.0)
+    - RealmSwift (~> 3.0)
+    - XCGLogger (~> 6.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - ObjectMapper (3.1.0)
+  - PromiseKit (4.5.2):
+    - PromiseKit/Foundation (= 4.5.2)
+    - PromiseKit/QuartzCore (= 4.5.2)
+    - PromiseKit/UIKit (= 4.5.2)
+  - PromiseKit/CorePromise (4.5.2)
+  - PromiseKit/Foundation (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.5.2):
+    - PromiseKit/CorePromise
+  - PubNub (4.7.7):
+    - PubNub/Core (= 4.7.7)
+  - PubNub/Core (4.7.7)
+  - Realm (3.3.2):
+    - Realm/Headers (= 3.3.2)
+  - Realm/Headers (3.3.2)
+  - RealmSwift (3.3.2):
+    - Realm (= 3.3.2)
+  - SVProgressHUD (2.2.5)
+  - XCGLogger (6.0.2):
+    - XCGLogger/Core (= 6.0.2)
+  - XCGLogger/Core (6.0.2):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Kinvey
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kinvey
+    - ObjcExceptionBridging
+    - ObjectMapper
+    - PromiseKit
+    - PubNub
+    - Realm
+    - RealmSwift
+    - SVProgressHUD
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 624f128983eec795deacd50c1cd2f72664d13f08
+  KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
+  Kinvey: ac598643e1dc611f20e69b0673eef2ab5c562b71
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PromiseKit: 743e497a5f505a470d3bbbf4ce0663c1268af0a4
+  PubNub: 3493f9dd62b6d07579ddae5183ab0a0f2ac54091
+  Realm: d927fbf66df5532cfafc08afb5f7e53ded37b894
+  RealmSwift: 4e903a494e05d866581d69ad6f7e7b879d446baf
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XCGLogger: c9601cae9a8912de34a58666ba931ed3d624dd31
+
+PODFILE CHECKSUM: 63bf5f02c21b96751bcdc923eb3f9dea21447401
+
+COCOAPODS: 1.5.0
