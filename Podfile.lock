@@ -1,7 +1,7 @@
 PODS:
-  - IQKeyboardManagerSwift (6.0.0)
+  - IQKeyboardManagerSwift (6.0.1)
   - KeychainAccess (3.1.1)
-  - Kinvey (3.13.0):
+  - Kinvey (3.14.0):
     - KeychainAccess (~> 3.0)
     - ObjectMapper (~> 3.0)
     - PromiseKit (~> 4.0)
@@ -58,9 +58,9 @@ SPEC REPOS:
     - XCGLogger
 
 SPEC CHECKSUMS:
-  IQKeyboardManagerSwift: 624f128983eec795deacd50c1cd2f72664d13f08
+  IQKeyboardManagerSwift: 748d06e0f8134fc28934031e6377da3cf3d4f38c
   KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
-  Kinvey: ac598643e1dc611f20e69b0673eef2ab5c562b71
+  Kinvey: 91c3cde84349c0b7c73a2adf8aa7c59abcb69281
   ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
   ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
   PromiseKit: 743e497a5f505a470d3bbbf4ce0663c1268af0a4
